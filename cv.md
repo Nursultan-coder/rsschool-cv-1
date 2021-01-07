@@ -7,5 +7,6 @@
 
 ## Contacts:
 - **+375257942616**
-- [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/)   
+- [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/)
+- [**Github**](https://github.com/Front-Eugene)
 
