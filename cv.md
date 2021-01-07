@@ -3,5 +3,5 @@
 
 ## First/Last Name
 
-- **Morozenko**
-- **Eugene**
+**Morozenko**
+**Eugene**
