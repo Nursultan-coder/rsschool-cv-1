@@ -9,5 +9,5 @@
 
 ## Contacts:
 - +375257942616
-- [**LN**:](https://www.linkedin.com/in/eugenemorozenko/)   
+- [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/)   
 
