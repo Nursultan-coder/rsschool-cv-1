@@ -1,3 +1,0 @@
-# curriculum vitae
-**Morozenko**
-**Eugene**
