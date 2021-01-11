@@ -9,12 +9,14 @@
 - [**Github**](https://github.com/Front-Eugene)
 
 ## Personal information:
-*** Eugene, 24 years old. I graduated from BNTU, but realized that it's wasn't my field. I want to learn interesting and popular profession. I've worked in different spheres:
+Eugene, 24 years old. I graduated from BNTU, but realized that it's wasn't my field. I want to learn interesting and popular profession. I've worked in different spheres:
+
 - waiter
 - taxi driver
 - security guard
+
 where I manageded to absorb some useful soft skills.
-Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon. ***
+Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
 
 ...javascript
     
