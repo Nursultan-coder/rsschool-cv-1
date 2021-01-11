@@ -16,10 +16,11 @@
 - security guard
 
 ### where I manageded to absorb some useful soft skills.
-Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
+### Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
 
-```
-    const deadline = '2021-12-11';
+```javascript
+   
+   const deadline = '2021-12-11';
 
     function getTimeRemaining(endTime) {
         const t = Date.parse(endTime) - Date.parse(new Date()),
@@ -71,6 +72,8 @@ Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
     setClock('.timer', deadline);
 
 ```
+
+
 
 ## Educational courses:
 [**Udemy**](https://www.udemy.com/)
