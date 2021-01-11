@@ -2,7 +2,8 @@
 ## Last Name: **Morozenko**
 ![Photo](https://sun9-34.userapi.com/impg/o0E91uCHZQV60VADn4BfqZYetQOoThWfbTG-6g/v2SpWsbsfdU.jpg?size=137x140&quality=96&proxy=1&sign=364a8c75f508f641399bd871fabc6c35&type=album)
 
-## Contacts: 
+## Contacts:
+- **Minsk**
 - **+375257942616**    
 - [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/) 
 - [**Github**](https://github.com/Front-Eugene)
@@ -67,3 +68,11 @@ Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
     }
 
     setClock('.timer', deadline);
+
+## Educational courses:
+[**Udemy**](https://www.udemy.com/)
+- WEB-developer 2020
+- JavaScript + React Course
+
+## English:
+**The level of English is approximately A1-A2. I never miss the opportunity to chat with a native speaker. I use the app "Duolingo" in learning English.** 
