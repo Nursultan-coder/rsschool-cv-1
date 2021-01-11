@@ -8,7 +8,7 @@
 - [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/) 
 - [**Github**](https://github.com/Front-Eugene)
 
-    ...javascript
+...javascript
     
     const deadline = '2021-12-11';
 
@@ -60,5 +60,4 @@
     }
 
     setClock('.timer', deadline);
-    
-    ...
+...
