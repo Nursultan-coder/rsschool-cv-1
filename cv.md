@@ -3,8 +3,7 @@
 ![Photo](https://sun9-34.userapi.com/impg/o0E91uCHZQV60VADn4BfqZYetQOoThWfbTG-6g/v2SpWsbsfdU.jpg?size=137x140&quality=96&proxy=1&sign=364a8c75f508f641399bd871fabc6c35&type=album)
 
 ## Contacts: 
-- **+375257942616** 
-- [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/)   
+- **+375257942616**    
 - [**Linkedin**](https://www.linkedin.com/in/eugenemorozenko/) 
 - [**Github**](https://github.com/Front-Eugene)
 
@@ -17,8 +16,6 @@ Eugene, 24 years old. I graduated from BNTU, but realized that it's wasn't my fi
 
 where I manageded to absorb some useful soft skills.
 Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
-
-...javascript
     
     const deadline = '2021-12-11';
 
@@ -70,4 +67,3 @@ Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
     }
 
     setClock('.timer', deadline);
-...
