@@ -15,7 +15,7 @@
 - taxi driver
 - security guard
 
-where I manageded to absorb some useful soft skills.
+### where I manageded to absorb some useful soft skills.
 Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
     
     const deadline = '2021-12-11';
@@ -71,8 +71,8 @@ Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
 
 ## Educational courses:
 [**Udemy**](https://www.udemy.com/)
-- WEB-developer 2020
-- JavaScript + React Course
+- ### WEB-developer 2020
+- ### JavaScript + React Course
 
 ## English:
 ### The level of English is approximately A1-A2. I never miss the opportunity to chat with a native speaker. I use the app "Duolingo" in learning English. 
