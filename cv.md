@@ -9,7 +9,7 @@
 - [**Github**](https://github.com/Front-Eugene)
 
 ## Personal information:
-Eugene, 24 years old. I graduated from BNTU, but realized that it's wasn't my field. I want to learn interesting and popular profession. I've worked in different spheres:
+### Eugene, 24 years old. I graduated from BNTU, but realized that it's wasn't my field. I want to learn interesting and popular profession. I've worked in different spheres:
 
 - waiter
 - taxi driver
@@ -75,4 +75,4 @@ Now I study HTML, CSS, JavaScript. I hope to find my place in the IT field soon.
 - JavaScript + React Course
 
 ## English:
-**The level of English is approximately A1-A2. I never miss the opportunity to chat with a native speaker. I use the app "Duolingo" in learning English.** 
+### The level of English is approximately A1-A2. I never miss the opportunity to chat with a native speaker. I use the app "Duolingo" in learning English. 
