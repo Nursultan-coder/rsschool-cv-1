@@ -1,2 +1,2 @@
 # rsschool-cv
-https://front-eugene.github.io/rsschool-cv/cv
+https://Nursultan-coder.github.io/rsschool-cv/cv
